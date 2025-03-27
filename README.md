@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next.js and DBMS
 - 📫 How to reach me : LinkedIn: https://www.linkedin.com/in/akash-saminathan-13a766284/ 
-- ⚡ Fun fact: 
 
 
 <!---
