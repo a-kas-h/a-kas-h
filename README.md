@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer and student from Chennai</h3>
 <div align="center">
     <li>🔭 I’m currently working on an <b>NFT Warranty Management System</b></li><br>
     <li>🌱 I’m currently learning <b>AWS, Next JS, Node, Flask</b></li><br>
