@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate developer and student from Chennai</h3>
 <div align="center">
-    <li>🔭 I’m currently working on an <b>NFT Warranty Management System</b></li><br>
+    <li>🔭 I’m currently working on an <b>NFT Warranty Management System</b> and a <b>Product Tracking App</b></li><br>
     <li>🌱 I’m currently learning <b>AWS, Next JS, Node, Flask</b></li><br>
-    <li>💬 Ask me about <b>React, DSA</b></li><br>
+    <li>💬 Ask me about <b>React, Blockchain</b></li><br>
     <li>📫 How to reach me: <b>akashsaminathan24@gmail.com</b></li><br>
 </div>
 
