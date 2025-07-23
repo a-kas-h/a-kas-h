@@ -2,7 +2,7 @@
 #### Student dev just building stuff I think is cool<br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <br>
-<h3>🔭 I’m currently working on a 2D Java game</h3><br>
+<h3>🔭 I’m currently working on a 2D Java game and an Object detection model</h3><br>
 <h3>🌱 I’m currently learning Springboot and neural networks</h3><br>
 <h3>💬 Ask me about React, Tailwind, Electron</h3><br>
 
